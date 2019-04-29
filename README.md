@@ -1,4 +1,4 @@
-Toll Booth Payments
+Ethereal Toll Booth 
 =================
 Goals: The goal of this project is to allow payments between devices with a simlulation of a vehicle passing through a toll.
 
