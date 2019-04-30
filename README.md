@@ -10,6 +10,8 @@ Goals: The goal of this project is to allow payments between devices with a siml
 5. The driver of the vehicle entering the toll recieves a notification at ---.  They have been requested to accept a toll of a certain amount and can confirm that they are at that toll booth easily. They can confirm payment without spending gas because we are using EC-recover to sign a validation.
 6. Successful payments are emitted as events so everyone knows that the toll has been paid and the driver free to continue on there way to grandma's house.
 
+## Implementation
+You can connect to our private azure hosted ethereum network here: http://40.76.76.27:8501
 
 
 ## What we learned
